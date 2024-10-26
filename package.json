@@ -1,0 +1,10 @@
+{
+  "name": "DesafioClassificadorHeroi",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {}
+}
