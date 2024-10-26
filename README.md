@@ -23,7 +23,7 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 1. Clone este repositório.
 
-2. Abra o arquivo `main.js` em seu editor de código.
+2. Abra o arquivo `src/main.js` em seu editor de código.
 
 3. Execute o arquivo usando Node.js.
 
